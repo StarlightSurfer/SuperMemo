@@ -1,0 +1,39 @@
+SuperMemo Report
+   Activity: Importing from c:\software\supermemo\systems\abc of supermemo 19\temp\transfer.txt
+   Collection: c:\software\supermemo\systems\all in one
+   Date: Friday, May 9, 2025, 9:16:37 PM
+   SuperMemo 19 (Build 19.1, Apr 23, 2025)
+
+Collecting elements
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Line 304: Warning! Parent title mismatch:
+   Target collection: Remember! Repetition is the key weapon against forgetting Hint: brown color .
+   Transferred collection: Remember! Repetition is the key weapon against forgetting Hint: brown color ...
+   Parent=190
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Line 434: Warning! Parent title mismatch:
+   Target collection: Remember! Repetition is the key weapon against forgetting Hint: brown color .
+   Transferred collection: Remember! Repetition is the key weapon against forgetting Hint: brown color ...
+   Parent=190
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Line 493: Warning! Parent title mismatch:
+   Target collection: Remember! Repetition is the key weapon against forgetting Hint: brown color .
+   Transferred collection: Remember! Repetition is the key weapon against forgetting Hint: brown color ...
+   Parent=190
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Line 1695: Warning! Parent title mismatch:
+   Target collection: Remember! If you complete your repetitions every day (button Learn), SuperMemo will make .
+   Transferred collection: Remember! If you complete your repetitions every day (button Learn), SuperMemo will make ...
+   Parent=207
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Line 1754: Warning! Parent title mismatch:
+   Target collection: Remember! If you complete your repetitions every day (button Learn), SuperMemo will make .
+   Transferred collection: Remember! If you complete your repetitions every day (button Learn), SuperMemo will make ...
+   Parent=207
+Creating components
+
+Process completed at 9:16:41 PM in 00:00:04 sec (Friday, May 9, 2025)
+
+5 ERRORS (Importing from c:\software\supermemo\systems\abc of supermemo 19\temp\transfer.txt)
+
+____________________________________________________________
