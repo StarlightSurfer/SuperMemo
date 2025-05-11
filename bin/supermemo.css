@@ -1,23 +1,25 @@
-BODY
-{
-BACKGROUND-COLOR: #F3F2EE;
-COLOR: #1F0909;
-FONT-FAMILY: "HELVETICA NEUE", HELVETICA, ARIAL, 'SEGOE UI EMOJI', SANS-SERIF;
-FONT-STYLE: normal;
-FONT-WEIGHT: normal;
-FONT-SIZE: 21pt;
+BODY {
+	background-color: #363B40;
+    font-family: "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+	color: #B8BFC6;
+	FONT-SIZE: 16 pt;
+
+	overflow: scroll;
+	height: 100%;
+	padding: 1em 3% 0 3%;
+	line-height:170%;
 }
+
 
 b, strong {
 
 
-    color: #1F0909;
+    color: #DEDEDE;
 }
 
 p {
     margin-bottom: 1em; /* 设置段落之间的间距为 1em */
 }
-
 
 html {
 	height: 100%;
@@ -25,10 +27,10 @@ html {
 	overflow: hidden;
 }
 
-a:link { color: #065588 }
-a:visited { color: #9D2933 }
-a:hover { color: #9D2933 }
-a:active { color: #065588 }
+a:link { color: #CDEDF6 }
+a:visited { color: #70F3FF }
+a:hover { color: #70F3FF }
+a:active { color: #CDEDF6 }
 
 HR {
 	color:#808080;
@@ -107,12 +109,12 @@ h6 {
 }
 
 .clozed {
-	BACKGROUND-COLOR: #A4E2C6;
+	BACKGROUND-COLOR: #9D2933;
 
 }
 
 .Extract {
-	BACKGROUND-COLOR: #dcdddd;
+	BACKGROUND-COLOR: #003472;
 }
 
 .headers {
@@ -123,21 +125,21 @@ h6 {
 
 .RefText {
 	BACKGROUND-COLOR: #;
-	COLOR: #000000;
+	COLOR: #FFFFFF;
 	FONT-WEIGHT: bold;
 }
 
 .Reference {
 	background: linear-gradient(135deg, #57ca85 0%, #184e68 100%);
 	border-radius: 5px;
-	color: #53575A;
+	color: #CCA4E3;
 	FONT-SIZE: 11pt;
 }
 
 .Highlight {
-	BACKGROUND-COLOR: #FFFFC4;
+	BACKGROUND-COLOR: #D3D40E;
 	COLOR: #000000;
-	FONT-WEIGHT: bold;
+	FONT-WEIGHT: normal;
 }
 
 .SearchHighlight {
