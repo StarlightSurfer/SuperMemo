@@ -1,13 +1,11 @@
-BODY {
-	background-color: #363B40;
-    font-family: "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
-	color: #B8BFC6;
-	FONT-SIZE: 16 pt;
-
-	overflow: scroll;
-	height: 100%;
-	padding: 1em 3% 0 3%;
-	line-height:170%;
+BODY
+{
+BACKGROUND-COLOR: #363B40;
+COLOR: #B8BFC6;
+FONT-FAMILY: "HELVETICA NEUE", HELVETICA, ARIAL, 'SEGOE UI EMOJI', SANS-SERIF;
+FONT-STYLE: normal;
+FONT-WEIGHT: normal;
+FONT-SIZE: 31pt;
 }
 
 
